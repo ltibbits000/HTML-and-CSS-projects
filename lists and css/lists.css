@@ -1,0 +1,20 @@
+ol{
+	list-style-type: upper-roman;
+	color: red;
+	font-family: "Comic Sans MS";
+}
+
+ol li{
+	display:  
+}
+
+ul{
+	color: green;
+	font-family: "Arial";
+	list-style-type: square;
+	
+}
+
+h1{
+	text-shadow: 2px 2px #ff0000;
+}
