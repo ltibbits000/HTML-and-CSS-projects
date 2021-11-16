@@ -5,7 +5,7 @@ body {
 h1 {
     color: rgba(8,141,165,1);
     margin-left: 100px;
-    text-shadow: 1px .5px 4px rgba(0,0,0, 0.6);
+    text-shadow: 1px 0.5px 4px rgba(0,0,0, 0.6);
 }
 
 .container {
@@ -40,7 +40,7 @@ h1 {
 
 .squares:nth-child(-n+4) p{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 1.5cm;
+    font-size: 25px;
     font-weight: 900;
     text-align: center;
     margin: 0;
