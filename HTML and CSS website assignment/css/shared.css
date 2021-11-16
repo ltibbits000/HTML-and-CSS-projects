@@ -303,6 +303,7 @@ any scrollbar*/
     position: relative;
     display: inline;
     float: right;
+    margin-top: 13%;
 }
 
 .terms:hover {
